@@ -3,6 +3,8 @@
 A very basic analytics script for CSV exports out of
 [Financius](https://play.google.com/store/apps/details?id=com.code44.finance).
 
+![](screenshot.png)
+
 ## Disclaimer
 
 This is highly tailored to my use and you probably won't get much out of this
