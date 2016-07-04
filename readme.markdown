@@ -18,7 +18,7 @@ You must be a masochist to install iPython locally on your system. I highly
 advice to use docker instead.
 
 ```bash
-docker run --rm -it -p 8888:8888 -v "$(pwd):/home/jovyan/work" jupyter/scipy-notebook@8015c88c4b11
+docker run --rm -it -p 8888:8888 -v "$(pwd):/home/jovyan/work" jupyter/scipy-notebook:e736784a1a8f
 ```
 
 ## How To Use
